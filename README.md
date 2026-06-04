@@ -1,2 +1,1 @@
-# ESP32-Smart-Plant-Monitor
-Industrial-grade smart plant monitoring system using ESP32-S3, FreeRTOS, and WebSocket telemetry.
+An ESP32-S3 and Blynk-based IoT project that monitors soil moisture, air temperature, and humidity in real-time. Features automated dual-alerts via an on-board Active Buzzer and RGB LED, combined with secure cloud data telemetry.
